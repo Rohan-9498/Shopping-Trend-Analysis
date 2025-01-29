@@ -14,3 +14,4 @@ Retail businesses accumulate vast amounts of shopping data from multiple channel
 ## Technologies Used
 [<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width=200>](https://jupyter.org/)
 [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/#)
+[<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" width=200>](https://www.python.org/)
