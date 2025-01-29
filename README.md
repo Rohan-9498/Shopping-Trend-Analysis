@@ -13,3 +13,4 @@ Retail businesses accumulate vast amounts of shopping data from multiple channel
 4. Learn data visualization 
 ## Technologies Used
 [<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width=200>](https://jupyter.org/)
+[<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/#)
